@@ -1,0 +1,9 @@
+C:\Users\Medic\source\repos\MedicSimsCheatmenu\MedicSimsCheatmenu\bin\Release\MedicSimsCheatmenu.exe.config
+C:\Users\Medic\source\repos\MedicSimsCheatmenu\MedicSimsCheatmenu\bin\Release\MedicSimsCheatmenu.exe
+C:\Users\Medic\source\repos\MedicSimsCheatmenu\MedicSimsCheatmenu\bin\Release\MedicSimsCheatmenu.pdb
+C:\Users\Medic\source\repos\MedicSimsCheatmenu\MedicSimsCheatmenu\obj\Release\MedicSimsCheatmenu.Properties.Resources.resources
+C:\Users\Medic\source\repos\MedicSimsCheatmenu\MedicSimsCheatmenu\obj\Release\MedicSimsCheatmenu.csproj.GenerateResource.cache
+C:\Users\Medic\source\repos\MedicSimsCheatmenu\MedicSimsCheatmenu\obj\Release\MedicSimsCheatmenu.csproj.CoreCompileInputs.cache
+C:\Users\Medic\source\repos\MedicSimsCheatmenu\MedicSimsCheatmenu\obj\Release\MedicSimsCheatmenu.exe
+C:\Users\Medic\source\repos\MedicSimsCheatmenu\MedicSimsCheatmenu\obj\Release\MedicSimsCheatmenu.pdb
+C:\Users\Medic\source\repos\MedicSimsCheatmenu\MedicSimsCheatmenu\obj\Release\MedicSimsCheatmenu.MedicsCheatmenu.resources
